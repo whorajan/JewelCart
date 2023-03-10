@@ -1,0 +1,12 @@
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/bin/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.deps.json
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/bin/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.dll
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/bin/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.pdb
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.csproj.AssemblyReference.cache
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.AssemblyInfoInputs.cache
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.AssemblyInfo.cs
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.csproj.CoreCompileInputs.cache
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.dll
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/refint/JewelCart.Services.CoreMaster.Entites.dll
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/JewelCart.Services.CoreMaster.Entites.pdb
+/Users/whorajan/Projects/JewelCart/JewelCart.Services.CoreMaster.Entites/obj/Debug/net7.0/ref/JewelCart.Services.CoreMaster.Entites.dll

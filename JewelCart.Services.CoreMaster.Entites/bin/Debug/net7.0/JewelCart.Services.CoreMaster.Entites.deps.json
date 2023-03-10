@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JewelCart.Services.CoreMaster.Entites/1.0.0": {
+        "runtime": {
+          "JewelCart.Services.CoreMaster.Entites.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JewelCart.Services.CoreMaster.Entites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
