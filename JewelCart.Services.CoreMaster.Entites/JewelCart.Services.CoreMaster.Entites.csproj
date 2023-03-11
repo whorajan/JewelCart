@@ -8,8 +8,13 @@
 
   <ItemGroup>
     <None Remove="Model\" />
+    <None Remove="DatabaseContext\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
+    <Folder Include="DatabaseContext\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
   </ItemGroup>
 </Project>

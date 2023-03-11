@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace JewelCart.Services.CoreMaster.Entites.Model
 {
+#pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
     public class Country
 	{
         public Guid Id { get; set; }
@@ -47,5 +48,6 @@ namespace JewelCart.Services.CoreMaster.Entites.Model
 
         public string CreateLogId { get; set; }
 	}
+#pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
 }
 
